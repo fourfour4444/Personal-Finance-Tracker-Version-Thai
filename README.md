@@ -286,22 +286,6 @@ http://localhost:3000/api
 - set `VITE_API_URL` on the frontend to the deployed backend API URL if frontend hosting environment variables are used
 - run Prisma migrations in the production environment before first use
 
-## Portfolio Positioning
-
-This project is suitable for presenting:
-
-- full-stack application architecture
-- authenticated product flow design
-- CRUD operations on relational business data
-- dashboard-driven reporting UX
-- practical local development setup across frontend, backend, and database layers
-
-## Current Gaps
-
-- no automated test suite is configured yet
-- no lint script is configured yet
-- local development currently assumes a stable frontend origin at `http://localhost:5173`
-
 ## License
 
 This project currently does not declare a license. Add a `LICENSE` file before publishing or distributing it externally.
